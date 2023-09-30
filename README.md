@@ -1,7 +1,6 @@
 - 👋 Hi, I’m lrobindale
 - 👀 I’m interested in ...robots
 - 🌱 I’m currently learning ...JAVA🍵
-- 💞️ I’m looking to collaborate on ...nothing
 - 📫 How to reach me ...don't
 
 <!---
